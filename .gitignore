@@ -9,3 +9,20 @@ env/
 .DS_Store
 *.tmp
 *.bak
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test and tool caches
+.pytest_cache/
+.mypy_cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db

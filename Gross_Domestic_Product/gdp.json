@@ -1,0 +1,12 @@
+[
+  { "country": "United States", "code": "USA", "gdp_billions": 28780 },
+  { "country": "China", "code": "CHN", "gdp_billions": 18560 },
+  { "country": "Germany", "code": "DEU", "gdp_billions": 4590 },
+  { "country": "Japan", "code": "JPN", "gdp_billions": 4110 },
+  { "country": "India", "code": "IND", "gdp_billions": 3940 },
+  { "country": "United Kingdom", "code": "GBR", "gdp_billions": 3500 },
+  { "country": "France", "code": "FRA", "gdp_billions": 3130 },
+  { "country": "Brazil", "code": "BRA", "gdp_billions": 2330 },
+  { "country": "Italy", "code": "ITA", "gdp_billions": 2330 },
+  { "country": "Canada", "code": "CAN", "gdp_billions": 2240 }
+]
