@@ -1,0 +1,74 @@
+[
+    {
+        "Country Name": "Arab World",
+        "Country Code": "ARB",
+        "Year": "2025",
+        "Value": "96388069"
+    },
+    {
+        "Country Name": "Arab World",
+        "Country Code": "ARB",
+        "Year": "2026",
+        "Value": "98882541.4"
+    },
+    {
+        "Country Name": "Nigeria",
+        "Country Code": "NGA",
+        "Year": "2025",
+        "Value": "237500000"
+    },
+    {
+        "Country Name": "Ghana",
+        "Country Code": "GHA",
+        "Year": "2025",
+        "Value": "35000000"
+    },
+    {
+        "Country Name": "United States",
+        "Country Code": "USA",
+        "Year": "2025",
+        "Value": "347000000"
+    },
+    {
+        "Country Name": "India",
+        "Country Code": "IND",
+        "Year": "2025",
+        "Value": "1463900000"
+    },
+    {
+        "Country Name": "China",
+        "Country Code": "CHN",
+        "Year": "2025",
+        "Value": "1416100000"
+    },
+    {
+        "Country Name": "Brazil",
+        "Country Code": "BRA",
+        "Year": "2025",
+        "Value": "212800000"
+    },
+    {
+        "Country Name": "South Africa",
+        "Country Code": "ZAF",
+        "Year": "2025",
+        "Value": "64000000"
+    },
+    {
+        "Country Name": "United Kingdom",
+        "Country Code": "GBR",
+        "Year": "2025",
+        "Value": "69600000"
+    },
+    {
+        "Country Name": "Canada",
+        "Country Code": "CAN",
+        "Year": "2025",
+        "Value": "41500000"
+    },
+    {
+        "Country Name": "Australia",
+        "Country Code": "AUS",
+        "Year": "2025",
+        "Value": "27100000"
+    }
+]
